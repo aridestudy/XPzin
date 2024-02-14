@@ -7,7 +7,7 @@ function sim() {
         btn.style.position = 'absolute';
         btn.style.bottom = randomNumber(10, 90);
         btn.style.left = randomNumber(10, 90);
-        console.log("Aí não chefe!!")
+        console.log("")
     }
 
     function randomNumber(min, max) {
